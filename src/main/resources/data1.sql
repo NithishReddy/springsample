@@ -1,0 +1,1 @@
+---insert into orders (id,request_id,user_id,ff_order_id,coupon_code,email_encrypted,mobile_encrypted,pg_amount,pg_url,fulfillment_service_id,external_user_id,user_email_encrypted) values(1,'request_id', 123, 1, 'ABC', 'EMAIL', 'MOBILE', 1, 'abc.com',9,'1223','USER EMAIL');
